@@ -254,7 +254,7 @@ elif(event_checkbox == "Avalanches"):
     st.download_button(
     "Download Data",
     csv,
-    f"Data.csv",
+    f"Avalanche Data.csv",
     "text/csv",
     key='download-csv'
     )
@@ -422,7 +422,7 @@ elif(event_checkbox=="Ice/Rock Avalanches"):
     st.download_button(
             "Download Data",
             csv,
-            f"Filtered Debris Flow Data.csv",
+            f"Filtered RIA Data.csv",
             "text/csv",
             key='download-csv'
             )
