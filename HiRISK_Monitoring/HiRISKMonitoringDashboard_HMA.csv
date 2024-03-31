@@ -1,45 +1,4 @@
 HiRISKDB_ID,Name,Type,Category,Latitude,Longitude,min Elevation,Elevation,max Elevation,Country,Data owner/Data manager,Manager email,Data Access Quality,Data Access (URL),Data Publication,Activity,Physical Variables,Socioeconomic dimensions,Hazard data,Start Date,End Date,Temporal frequency (highest)
-367850,ZHANSUGUROV,Single,Climate,45.383,79.5,,628,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2013,2022,daily
-368430,KOK-SU,Single,Climate,44.633,78.75,,1114,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1961,2022,daily
-368710,KARASAYSKY,Single,Climate,43.183,76.75,,810,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2013,2022,daily
-368720,ALMATY,Single,Climate,43.352,77.041,,680.9,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2006,2022,daily
-368770,PRUDKY,Single,Climate,43.167,76.05,,992,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1963,1997,daily
-368850,ISSYK,Single,Climate,43.35,77.467,,1098,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
-368890,TURGEN,Single,Climate,43.383,77.55,,979.9,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
-368940,MALIBAY,Single,Climate,43.483,78.4,,870,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
-369050,PODGORNOJE,Single,Climate,43.317,79.483,,1273,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
-369260,CHON-SARY-OY,Single,Climate,42.6,76.917,,1596,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Defunct,"T, P",NA,NA,1961,1962,daily
-369340,COLPON-ATA,Single,Climate,42.65,77.1,,1645,,Kyrgyzstan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,Defunct,"T, P",NA,NA,1936,1997,daily
-369440,KYZYL-SUU,Single,Climate,42.35,78.35,,1769,,Kyrgyzstan,ISD,,EXT_NET,"https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily, https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global",,,"T, P",NA,NA,1959,2018,daily
-369480,BOLSAJA KZYL,Single,Climate,42.2,78.2,,1719,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
-369830,DARHAN,Single,Climate,42.317,77.9,,1700,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,1997,daily
-369850,KARAKOLKA,Single,Climate,41.483,77.4,,3080,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,1997,daily
-369940,AK-SYJRAK,Single,Climate,41.817,78.733,,3540,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
-383520,BELOVODSKOE,Single,Climate,42.85,74.1,,726,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Defunct,"T, P",NA,NA,1959,1997,daily
-383530,BISHKEK,Single,Climate,42.85,74.533,,760,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Unknown,"T, P",NA,NA,1946,2022,daily
-384660,TERS,Single,Climate,41.667,70.717,,1759,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1996,daily
-386280,KOKMAGDAY,Single,Climate,40.25,74,,,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,1963,daily
-387080,FARAB,Single,Climate,39.233,67.467,,1981,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1963,2019,daily
-387110,BAHMAL,Single,Climate,39.717,68.017,,1321.7,,Uzbekistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2015,2020,daily
-387180,ISKANDERKUL,Single,Climate,39.1,68.383,,2204,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1930,2022,daily
-387440,LAHSH,Single,Climate,39.283,71.867,,1198,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2022,daily
-388270,BAYSUN,Single,Climate,38.2,67.2,,1244.6,,Uzbekistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1936,2020,daily
-388280,PULE-KHAKIM,Single,Climate,38.167,67.367,,977,,Uzbekistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2016,daily
-388420,BUSTONABAD-IN-TAJIK,Single,Climate,38.683,69.567,,1964,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,2022,daily
-388460,HOVALING,Single,Climate,38.367,69.983,,1468,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,Unknown,"T, P",NA,NA,1936,2022,daily
-388480,KANGURT,Single,Climate,38.25,69.517,,908,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2002,2002,daily
-388510,RASHT,Single,Climate,39,70.3,,1316,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
-388530,KHABURABAD,Single,Climate,38.65,70.717,,3347,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P, SD",NA,NA,1948,2005,daily
-388560,DARVAZ,Single,Climate,38.467,70.883,,1288,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
-388620,FEDCENKO GLACIER,Single,Climate,38.917,72.167,,4169,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1937,1997,daily
-388670,HUMRAGI,Single,Climate,38.283,71.333,,1737,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Defunct,"T, P",NA,NA,1973,1997,daily
-388710,KARAKUL LAKE,Single,Climate,39.083,73.417,,3930,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
-388750,KARAKUL,Single,Climate,39.017,73.55,,3940,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1933,2022,daily
-388790,OKSU,Single,Climate,38.067,74.467,,3740,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1977,2002,daily
-389430,KULYAB,Single,Climate,37.917,69.783,,659,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,2021,daily
-389510,RUSHAN,Single,Climate,37.95,71.55,,1981,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1947,2022,daily
-389560,BULUN-KUL,Single,Climate,37.7,72.95,,3744,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
-389570,ISHKASHIM,Single,Climate,36.717,71.6,,2523,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Unknown,"T, P",NA,NA,1959,2022,daily
 409000,DARWAZ,Single,Climate,38.433,70.8,,1320,,Afghanistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2007,daily
 409010,KHWAHAN,Single,Climate,37.883,70.217,,1040,,Afghanistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2007,daily
 409040,FAIZABAD,Single,Climate,37.117,70.517,,1200,,Afghanistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Unknown,"T, P",NA,NA,1973,2013,daily
@@ -50,53 +9,39 @@ HiRISKDB_ID,Name,Type,Category,Latitude,Longitude,min Elevation,Elevation,max El
 409323,PANJSHIR,Single,Climate,35.267,69.467,,1945,,Afghanistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2007,2011,daily
 409510,SAROBI,Single,Climate,34.583,69.75,,1020,,Afghanistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,1961,daily
 409585,CAMP BLESSING-NANGA,Single,Climate,34.983,70.9,,1020,,Afghanistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2009,2011,daily
-415040,GUPIS,Single,Climate,36.167,73.4,,2156,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
-415050,HUNZA,Single,Climate,36.317,74.65,,2374,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2008,2018,daily
-415060,CHITRAL,Single,Climate,35.85,71.833,,1500,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2021,daily
-415070,MET OBSERVATORY TIMERGARA / DIR LOWER,Single,Climate,34.833,71.817,,786,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2008,2022,daily
-415080,DIR,Single,Climate,35.2,71.85,,1369,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1980,2022,daily
-415090,MIR KHANI,Single,Climate,35.5,71.7,,1250,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2006,2018,daily
-415100,KALAM,Single,Climate,35.833,72.983,,2123,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2018,daily
-415160,GILGIT,Single,Climate,35.919,74.334,,1457.2,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2021,daily
-415180,BUNJI,Single,Climate,35.667,74.633,,1470,,Pakistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1941,2021,daily
-415190,CHILLAS,Single,Climate,35.417,74.1,,1251,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2021,daily
-415200,ASTORE,Single,Climate,35.367,74.9,,2168,,Pakistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,Unknown,"T, P",NA,NA,1941,2021,daily
-415205,CHITRAL,Single,Climate,35.883,71.8,,1494,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
-415230,SAIDU SHARIF,Single,Climate,34.733,72.35,,951,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1974,2021,daily
-415235,SAIDU SHARIF,Single,Climate,34.817,72.35,,970,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
-415240,PATTAN,Single,Climate,35.1,73,,752,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2008,2018,daily
-415250,MALAM JABBA,Single,Climate,34.75,72.9,,2691,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2007,2022,daily
-415260,BABUSAR,Single,Climate,35.217,74.1,,2854,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2015,2015,daily
-415310,BATTAL,Single,Climate,34.583,73.15,,1676,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2003,daily
-415350,KAKUL,Single,Climate,34.183,73.25,,1309,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2022,daily
-415360,BALAKOT,Single,Climate,34.383,73.35,,981,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1998,2022,daily
-415740,RAWALAKOT*,Single,Climate,33.85,73.8,,1677,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2008,2008,daily
-420260,GULMARG,Single,Climate,34.05,74.4,,2655,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1944,2022,daily
-420340,LEH         ,Single,Climate,34.15,77.567,,3513,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1944,1948,daily
-420420,SRINAGAR,Single,Climate,33.983,74.783,,1664,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1988,2019,daily
-420590,DALHOUSIE,Single,Climate,32.533,75.967,,1959,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1944,2006,daily
-420770,UNA,Single,Climate,31.467,76.267,,369,,India,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,Unknown,"T, P",NA,NA,1901,2022,daily
-420780,MANDI,Single,Climate,31.717,76.967,,761,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
-420790,SUNDERNAGAR,Single,Climate,31.533,76.9,,874,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2013,2022,daily
-420800,BILASPUR,Single,Climate,31.25,76.667,,587,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
-421080,UTTARKASHI,Single,Climate,30.733,78.45,,1200,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1999,2019,daily
-421170,CHAMOLI,Single,Climate,30.4,79.333,,1160,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1999,2020,daily
-422990,GANGTOK,Single,Climate,27.333,88.617,,1756,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1974,2022,daily
-423050,BOMDILA,Single,Climate,27.417,92.85,,2484,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2002,2020,daily
-423120,ZIRO,Single,Climate,27.917,94.8,,1476,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2001,2017,daily
-427051,KULLU MANALI,Single,Climate,31.877,77.154,,1089.1,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2004,2022,daily
-427053,LEH,Single,Climate,34.136,77.547,,3255.9,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2006,2022,daily
+697094,FOB BOSTIC,Single,Climate,35.217,71.517,,1042,,Afghanistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1985,2012,daily
+AF_1_00001,Dara-i-Hazara-SSS,Single,"Climate, Cryosphere",35.26923,69.67671,,2346,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2021,hourly
+AF_1_00002,Kotal-i-Khawak-SSS,Single,"Climate, Cryosphere",35.66521,69.92521,,3109,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00003,Salang-i-Junobi-SSS,Single,"Climate, Cryosphere",35.29566,69.06596,,3152,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00004,Shakardara-SSS,Single,"Climate, Cryosphere",34.68319,68.97244,,2389,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2014,2023,hourly
+AF_1_00005,Paghman-SSS,Single,"Climate, Cryosphere",34.63077,68.91122,,2831,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00006,Kotal-i-Tirah-SSS,Single,"Climate, Cryosphere",33.74449,69.15378,,1612,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
+AF_1_00007,Mirzaka-SSS,Single,"Climate, Cryosphere",33.78228,69.49916,,2522,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00008,Kotal-i-Setkandaw-SSS,Single,"Climate, Cryosphere",33.47811,69.37296,,2892,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
+AF_1_00009,Kotal-i-Shibar-SSS,Single,"Climate, Cryosphere",34.79564,67.48676,,3189,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
+AF_1_00010,Worsaj-SSS,Single,"Climate, Cryosphere",36.01874,70.02808,,2666,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
+AF_1_00011,Kalafgan-SSS,Single,"Climate, Cryosphere",36.41161,69.52226,,2243,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00012,Khash-SSS,Single,"Climate, Cryosphere",36.83643,70.72684,,3076,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2019,hourly
+AF_1_00013,Anjuman-SSS,Single,"Climate, Cryosphere",35.89108,70.40686,,3117,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00014,Shuhada-SSS,Single,"Climate, Cryosphere",37.05003,71.27211,,2230,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00015,Kohestan-SSS,Single,"Climate, Cryosphere",37.46913,70.61732,,2268,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2017,hourly
+AF_1_00016,Dasht-i-Esh-SSS,Single,"Climate, Cryosphere",37.91608,70.51156,,2978,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2015,hourly
+AF_1_00017,Eshkashem-SSS,Single,"Climate, Cryosphere",36.69576,71.57658,,2876,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2019,2023,hourly
+AF_1_00018,Zibak-SSS,Single,"Climate, Cryosphere",36.53479,71.34471,,2610,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00019,Wakhan-SSS,Single,"Climate, Cryosphere",36.93463,72.26808,,2763,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00020,Yakawlang-SSS,Single,"Climate, Cryosphere",34.80873,66.71279,,2656,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
+AF_1_00021,Band-i-Amir-SSS,Single,"Climate, Cryosphere",34.82068,67.2255,,3079,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
+AF_1_00022,Daykundi-SSS,Single,"Climate, Cryosphere",33.66141,66.04271,,2139,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
+AF_1_00023,Panjab-SSS,Single,"Climate, Cryosphere",34.38579,67.00852,,2837,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2019,hourly
+AF_1_00024,Gardandiwal-SSS,Single,"Climate, Cryosphere",34.49814,68.21102,,2963,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2016,2023,hourly
+AF_1_00025,Kotal-i-Hajigak-SSS,Single,"Climate, Cryosphere",34.65611,68.11695,,3256,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
+AF_1_00026,Kotal-i-Sabzak-SSS,Single,"Climate, Cryosphere",34.63813,63.11439,,2459,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2018,hourly
+AF_1_00027,Alandar-SSS,Single,"Climate, Cryosphere",34.53963,65.1191,,2311,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
 433990,PARO,Single,Climate,27.403,89.425,,2234.8,,Bhutan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2010,2022,daily
-444040,DADELDHURA,Single,Climate,29.3,80.583,,1848,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1978,2022,daily
-444060,DIPAYAL,Single,Climate,29.25,80.95,,617,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
-444160,SURKHET,Single,Climate,28.6,81.617,,720,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1976,2022,daily
-444240,JUMLA,Single,Climate,29.283,82.167,,2300,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1975,2022,daily
-444290,DANG,Single,Climate,28.05,82.5,,634,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
-444340,POKHARA,Single,Climate,28.201,83.981,,826.6,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1977,2022,daily
-444600,JIRI,Single,Climate,27.633,86.233,,2003,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1978,1978,daily
-444610,SYANGBOCHE,Single,Climate,27.817,86.717,,3700,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1976,1980,daily
-444620,OKHALDHUNGA,Single,Climate,27.3,86.5,,1720,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1976,2022,daily
-444740,TAPLEJUNG,Single,Climate,27.35,87.667,,1732,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1978,2022,daily
+BT_EWS_00001,Lunana,EWS,GLOF,28.09274,90.227052,,4270,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20Doumentation%20Final%20Report%20Version%20_7%20June%202013.pdf,Active,"SH, T, P",NA,NA,2011,2024,NA
+BT_EWS_00002,Amocchu,EWS,GLOF,27.135467,89.134396,,880,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/ammochhu.pdf,Active,"SH, T, P",NA,NA,2020,2024,NA
+BT_EWS_00003,Mangdecchu,EWS,GLOF,27.60295,90.498807,,2100,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20JICA%20Mangdechhu%20and%20Chamkharchhu.pdf,Active,"SH, T, P",NA,NA,2016,2024,NA
+BT_EWS_00004,Chamkharchhu,EWS,GLOF,27.858314,90.661677,,3755,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20JICA%20Mangdechhu%20and%20Chamkharchhu.pdf,Active,"SH, T, P",NA,NA,2016,2024,NA
 514300,INING,Single,Climate,43.917,81.283,,670,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1956,1958,daily
 514370,ZHAOSU/MONGGOLKURE,Single,Climate,43.167,81.117,,1830,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1962,1997,daily
 514635,DIWOPU,Single,Climate,43.907,87.474,,647.7,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1985,2022,daily
@@ -192,36 +137,6 @@ HiRISKDB_ID,Name,Type,Category,Latitude,Longitude,min Elevation,Elevation,max El
 565480,WEIXI,Single,Climate,27.217,99.317,,2743,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1957,1997,daily
 565650,YANYUAN,Single,Climate,27.433,101.533,,2591,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
 567410,LIU-KU,Single,Climate,25.783,98.85,,2377,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
-697094,FOB BOSTIC,Single,Climate,35.217,71.517,,1042,,Afghanistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1985,2012,daily
-998426,HATTERAS,Single,Climate,35.209,75.704,,6.4,,US,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2010,2022,daily
-AF_1_00001,Dara-i-Hazara-SSS,Single,"Climate, Cryosphere",35.26923,69.67671,,2346,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2021,hourly
-AF_1_00002,Kotal-i-Khawak-SSS,Single,"Climate, Cryosphere",35.66521,69.92521,,3109,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00003,Salang-i-Junobi-SSS,Single,"Climate, Cryosphere",35.29566,69.06596,,3152,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00004,Shakardara-SSS,Single,"Climate, Cryosphere",34.68319,68.97244,,2389,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2014,2023,hourly
-AF_1_00005,Paghman-SSS,Single,"Climate, Cryosphere",34.63077,68.91122,,2831,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00006,Kotal-i-Tirah-SSS,Single,"Climate, Cryosphere",33.74449,69.15378,,1612,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
-AF_1_00007,Mirzaka-SSS,Single,"Climate, Cryosphere",33.78228,69.49916,,2522,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00008,Kotal-i-Setkandaw-SSS,Single,"Climate, Cryosphere",33.47811,69.37296,,2892,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
-AF_1_00009,Kotal-i-Shibar-SSS,Single,"Climate, Cryosphere",34.79564,67.48676,,3189,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
-AF_1_00010,Worsaj-SSS,Single,"Climate, Cryosphere",36.01874,70.02808,,2666,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
-AF_1_00011,Kalafgan-SSS,Single,"Climate, Cryosphere",36.41161,69.52226,,2243,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00012,Khash-SSS,Single,"Climate, Cryosphere",36.83643,70.72684,,3076,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2019,hourly
-AF_1_00013,Anjuman-SSS,Single,"Climate, Cryosphere",35.89108,70.40686,,3117,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00014,Shuhada-SSS,Single,"Climate, Cryosphere",37.05003,71.27211,,2230,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00015,Kohestan-SSS,Single,"Climate, Cryosphere",37.46913,70.61732,,2268,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2017,hourly
-AF_1_00016,Dasht-i-Esh-SSS,Single,"Climate, Cryosphere",37.91608,70.51156,,2978,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2015,hourly
-AF_1_00017,Eshkashem-SSS,Single,"Climate, Cryosphere",36.69576,71.57658,,2876,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2019,2023,hourly
-AF_1_00018,Zibak-SSS,Single,"Climate, Cryosphere",36.53479,71.34471,,2610,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00019,Wakhan-SSS,Single,"Climate, Cryosphere",36.93463,72.26808,,2763,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00020,Yakawlang-SSS,Single,"Climate, Cryosphere",34.80873,66.71279,,2656,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
-AF_1_00021,Band-i-Amir-SSS,Single,"Climate, Cryosphere",34.82068,67.2255,,3079,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-AF_1_00022,Daykundi-SSS,Single,"Climate, Cryosphere",33.66141,66.04271,,2139,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
-AF_1_00023,Panjab-SSS,Single,"Climate, Cryosphere",34.38579,67.00852,,2837,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2019,hourly
-AF_1_00024,Gardandiwal-SSS,Single,"Climate, Cryosphere",34.49814,68.21102,,2963,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2016,2023,hourly
-AF_1_00025,Kotal-i-Hajigak-SSS,Single,"Climate, Cryosphere",34.65611,68.11695,,3256,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
-AF_1_00026,Kotal-i-Sabzak-SSS,Single,"Climate, Cryosphere",34.63813,63.11439,,2459,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2018,hourly
-AF_1_00027,Alandar-SSS,Single,"Climate, Cryosphere",34.53963,65.1191,,2311,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-BT_EWS_00001,Lunana,EWS,GLOF,28.032078,89.872717,,3700,,Bhutan,,,NA,,,Active,SH,NA,NA,,2024,NA
 CHM00051334,JINGHE,Single,Climate,44.617,82.9,,321,,China,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",NA,NA,1956,2024,daily
 CHM00051431,YINING,Single,Climate,43.95,81.333,,664,,China,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",NA,NA,1951,2023,daily
 CHM00051463,WULUMUQI,Single,Climate,43.8,87.65,,947,,China,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",NA,NA,1951,2024,daily
@@ -275,9 +190,26 @@ CN_2_00018,CRS_Tianshui,Network,"Climate, Cryosphere",35.583686,79.884658,,5650,
 CN_2_00019,CRS_Daxigou,Network,"Climate, Cryosphere",43.16703,86.924569,,?,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH, GT",NA,NA,2005,2024,hourly
 CN_2_00020,CRS_Wenquan,Network,"Climate, Cryosphere",35.334727,99.081269,,?,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH",NA,NA,2005,2024,hourly
 CN_2_00021,SETCON,Network,"Climate, Cryosphere",27.176327,100.225741,,?,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH",NA,NA,2006,2024,hourly
+CN_2_00022,Bayi,Network,"Climate, Cryosphere",39.01,98.88,3850,,4650,China,Han chuntan,hancht@lzb.ac.cn,AVAILABLE,http://www.bdc.ac.cn/portal/metadata/47121bb4-562c-4693-9513-92a7143223c9,,Active,"T, RH, W, P",NA,NA,2020,2023,daily
+CN_1_00001,August 1 Glacier,Single,"Climate, Cryosphere",39.02,98.89,,4520,,China,Guo shuhai,guoshuhai@lzb.ac.cn,AVAILABLE,https://data.tpdc.ac.cn/zh-hans/data/db63e7e3-a4a6-480c-a3ee-ca9979aa5663, https://cstr.cn/18406.11.Cryos.tpdc.300789,Active,"W, T, RH, MB",NA,NA,2017,2021,hourly
 CN_EWS_00001,Sedongpu,EWS,Debris flow,29.748661,94.93956,,2763,,China,Wei Yang,yangww@itpcas.ac.cn,RESTRICTED,,https://doi.org/10.5194/nhess-23-3015-2023,Active,"SH, Camera, T, P, RAD",NA,"DF, avalanche",2019,2024,hourly
 CN_EWS_00002,Kyagar,EWS,GLOF,35.71,77.01,,4600,,China,,,NA,,10.3189/2014 AoG66A001,Defunct,"SH, Camera",NA,GLOF,2015,2018,NA
 CN_EWS_00003,Cirenmaco,EWS,GLOF,28.073856,86.057142,,4612,,China,Weicai Wang,weicaiwang@itpcas.ac.cn,AVAILABLE,http://holo-earth.cn:9022/,https://doi.org/10.1016/j.ijdrr.2022.102914,Active,"SH, Camera, T, P, RAD, W",NA,NA,2021,2024,NA
+420260,GULMARG,Single,Climate,34.05,74.4,,2655,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1944,2022,daily
+420340,LEH         ,Single,Climate,34.15,77.567,,3513,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1944,1948,daily
+420420,SRINAGAR,Single,Climate,33.983,74.783,,1664,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1988,2019,daily
+420590,DALHOUSIE,Single,Climate,32.533,75.967,,1959,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1944,2006,daily
+420770,UNA,Single,Climate,31.467,76.267,,369,,India,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,Unknown,"T, P",NA,NA,1901,2022,daily
+420780,MANDI,Single,Climate,31.717,76.967,,761,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
+420790,SUNDERNAGAR,Single,Climate,31.533,76.9,,874,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2013,2022,daily
+420800,BILASPUR,Single,Climate,31.25,76.667,,587,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
+421080,UTTARKASHI,Single,Climate,30.733,78.45,,1200,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1999,2019,daily
+421170,CHAMOLI,Single,Climate,30.4,79.333,,1160,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1999,2020,daily
+422990,GANGTOK,Single,Climate,27.333,88.617,,1756,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1974,2022,daily
+423050,BOMDILA,Single,Climate,27.417,92.85,,2484,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2002,2020,daily
+423120,ZIRO,Single,Climate,27.917,94.8,,1476,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2001,2017,daily
+427051,KULLU MANALI,Single,Climate,31.877,77.154,,1089.1,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2004,2022,daily
+427053,LEH,Single,Climate,34.136,77.547,,3255.9,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2006,2022,daily
 IN_1_00001,Baghirati,Single,Climate,30.715852,79.161979,,?,,India,Wadia,?,AVAILABLE,,,Defunct,"T, P, RH, W",NA,NA,2011,?,daily
 IN_2_00001,Dokriani,Network,"Climate, Hydrology, Cryosphere",30.909924,78.816117,2540,,4364,India,Wadia,?,AVAILABLE,,,?,"T, P, RH, W, Q, MB",NA,NA,2011,?,daily
 IN_2_00002,Chhota Shigri,Network,"Climate, Cryosphere, Hydrology",32.245853,77.520967,,4863,,India,IIT,farooqazam@iiti.ac.in,AVAILABLE,,https://doi.org/10.1017/jog.2020.42 ,Active,"T, RH, W, RAD, SD, MB, Q",NA,NA,2002,2023,hourly
@@ -452,6 +384,43 @@ IN024050200,KALIMPONG,Single,Climate,27.07,88.47,,1209,,India,GHCNd,,EXT_NET,"ht
 IN024050400,KURSEONG,Single,Climate,26.88,88.28,,1476,,India,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1901,1970,daily
 IN024050500,MONGPOO,Single,Climate,26.92,88.5,,607,,India,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1901,1970,daily
 IN024080600,BUXA,Single,Climate,26.77,89.58,,752,,India,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1901,1968,daily
+367850,ZHANSUGUROV,Single,Climate,45.383,79.5,,628,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2013,2022,daily
+368430,KOK-SU,Single,Climate,44.633,78.75,,1114,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1961,2022,daily
+368710,KARASAYSKY,Single,Climate,43.183,76.75,,810,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2013,2022,daily
+368720,ALMATY,Single,Climate,43.352,77.041,,680.9,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2006,2022,daily
+368770,PRUDKY,Single,Climate,43.167,76.05,,992,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1963,1997,daily
+368850,ISSYK,Single,Climate,43.35,77.467,,1098,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
+368890,TURGEN,Single,Climate,43.383,77.55,,979.9,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
+368940,MALIBAY,Single,Climate,43.483,78.4,,870,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
+369050,PODGORNOJE,Single,Climate,43.317,79.483,,1273,,Kazakhstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
+KZ000036786,SARKAND,Single,Climate,45.417,79.933,,1113,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1936,2024,daily
+KZ000036796,LEPSINSK,Single,Climate,45.5,80.6,,1012,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1955,1991,daily
+KZ000036806,JALANACKOL',Single,Climate,45.6,82.1,,385,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1961,1991,daily
+KZ000036843,TEKELY,Single,Climate,44.8,79,,1722,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1966,1991,daily
+KZ000036846,KUGALI,Single,Climate,44.467,78.667,,1385,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1918,2024,daily
+KZ000036870,ALMATY,Single,Climate,43.2331,76.9331,,851,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1915,2024,daily
+KZ000036879,BOL'SOE-ALMAATINSKOE-OZERO,Single,Climate,43.1,76.9,,2501,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1936,1991,daily
+KZ000036880,ALATIY-AMC,Single,Climate,43.2,77,,681,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1966,1991,daily
+KZ000036884,"ALMA-ATA,MEDEO",Single,Climate,43.2,77,,1712,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1959,1963,daily
+KZ000036885,ISSIK,Single,Climate,43.4,77.5,,1098,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1937,1991,daily
+KZ000036887,VERCNIY-GOREL'NIK,Single,Climate,43.1,77.1,,2268,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1937,1991,daily
+KZ000036888,UST'-GOREL'NIK,Single,Climate,43.1,77.2,,1943,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1936,1991,daily
+KZ000036889,MINJILKY,Single,Climate,43,77.1,,3017,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1936,1991,daily
+KZ000036897,ASSY,Single,Climate,43.317,78.25,,2216,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Unknown,"T, P, SD",,,1955,2022,daily
+KZ000036907,KEGEN,Single,Climate,43,79.2,,1845,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1947,1991,daily
+KZ000036952,SARYDJAS,Single,Climate,42.9,79.6,,1956,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1955,1991,daily
+KZ000038338,CUULDAK,Single,Climate,42.3,70.4,,1947,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1966,1991,daily
+369260,CHON-SARY-OY,Single,Climate,42.6,76.917,,1596,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Defunct,"T, P",NA,NA,1961,1962,daily
+369340,COLPON-ATA,Single,Climate,42.65,77.1,,1645,,Kyrgyzstan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,Defunct,"T, P",NA,NA,1936,1997,daily
+369440,KYZYL-SUU,Single,Climate,42.35,78.35,,1769,,Kyrgyzstan,ISD,,EXT_NET,"https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily, https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global",,,"T, P",NA,NA,1959,2018,daily
+369480,BOLSAJA KZYL,Single,Climate,42.2,78.2,,1719,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
+369830,DARHAN,Single,Climate,42.317,77.9,,1700,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,1997,daily
+369850,KARAKOLKA,Single,Climate,41.483,77.4,,3080,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,1997,daily
+369940,AK-SYJRAK,Single,Climate,41.817,78.733,,3540,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
+383520,BELOVODSKOE,Single,Climate,42.85,74.1,,726,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Defunct,"T, P",NA,NA,1959,1997,daily
+383530,BISHKEK,Single,Climate,42.85,74.533,,760,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Unknown,"T, P",NA,NA,1946,2022,daily
+384660,TERS,Single,Climate,41.667,70.717,,1759,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1996,daily
+386280,KOKMAGDAY,Single,Climate,40.25,74,,,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,1963,daily
 KG_EWS_00001,Teztor,EWS,GLOF,42.54,74.43,,3550,,Kyrgyzstan,,,NA,,10.1007/s10346-017-0862-3,Active,SH,NA,GLOF,2011,2024,NA
 KG000036911,TOKMAK,Single,Climate,42.833,75.283,,817,,Kyrgyzstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1936,2024,daily
 KG000036914,ISIK-ATA,Single,Climate,42.7,75,,1031,,Kyrgyzstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1959,1991,daily
@@ -513,23 +482,16 @@ KG000038741,HAIDARAKAN,Single,Climate,39.9,71.3,,2000,,Kyrgyzstan,GHCNd,,EXT_NET
 KG000038743,KICIK-ALAY,Single,Climate,39.9,72.8,,2360,,Kyrgyzstan,GHCNd,,EXT_NET,"https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily, https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global",,Defunct,P,,,1959,1991,daily
 KG000038745,DAROOT-KORGON,Single,Climate,39.6,72.2,,2470,,Kyrgyzstan,GHCNd,,EXT_NET,"https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily, https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global",,Defunct,P,,,1910,1991,daily
 KG000038871,SARY-TAS,Single,Climate,39.733,73.267,,3155,,Kyrgyzstan,GHCNd,,EXT_NET,"https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily, https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global",,Defunct,"T, P, SD",,,1922,1998,daily
-KZ000036786,SARKAND,Single,Climate,45.417,79.933,,1113,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1936,2024,daily
-KZ000036796,LEPSINSK,Single,Climate,45.5,80.6,,1012,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1955,1991,daily
-KZ000036806,JALANACKOL',Single,Climate,45.6,82.1,,385,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1961,1991,daily
-KZ000036843,TEKELY,Single,Climate,44.8,79,,1722,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1966,1991,daily
-KZ000036846,KUGALI,Single,Climate,44.467,78.667,,1385,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1918,2024,daily
-KZ000036870,ALMATY,Single,Climate,43.2331,76.9331,,851,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1915,2024,daily
-KZ000036879,BOL'SOE-ALMAATINSKOE-OZERO,Single,Climate,43.1,76.9,,2501,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1936,1991,daily
-KZ000036880,ALATIY-AMC,Single,Climate,43.2,77,,681,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1966,1991,daily
-KZ000036884,"ALMA-ATA,MEDEO",Single,Climate,43.2,77,,1712,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1959,1963,daily
-KZ000036885,ISSIK,Single,Climate,43.4,77.5,,1098,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1937,1991,daily
-KZ000036887,VERCNIY-GOREL'NIK,Single,Climate,43.1,77.1,,2268,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1937,1991,daily
-KZ000036888,UST'-GOREL'NIK,Single,Climate,43.1,77.2,,1943,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1936,1991,daily
-KZ000036889,MINJILKY,Single,Climate,43,77.1,,3017,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1936,1991,daily
-KZ000036897,ASSY,Single,Climate,43.317,78.25,,2216,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Unknown,"T, P, SD",,,1955,2022,daily
-KZ000036907,KEGEN,Single,Climate,43,79.2,,1845,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1947,1991,daily
-KZ000036952,SARYDJAS,Single,Climate,42.9,79.6,,1956,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1955,1991,daily
-KZ000038338,CUULDAK,Single,Climate,42.3,70.4,,1947,,Kazakhstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1966,1991,daily
+444040,DADELDHURA,Single,Climate,29.3,80.583,,1848,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1978,2022,daily
+444060,DIPAYAL,Single,Climate,29.25,80.95,,617,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
+444160,SURKHET,Single,Climate,28.6,81.617,,720,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1976,2022,daily
+444240,JUMLA,Single,Climate,29.283,82.167,,2300,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1975,2022,daily
+444290,DANG,Single,Climate,28.05,82.5,,634,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
+444340,POKHARA,Single,Climate,28.201,83.981,,826.6,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1977,2022,daily
+444600,JIRI,Single,Climate,27.633,86.233,,2003,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1978,1978,daily
+444610,SYANGBOCHE,Single,Climate,27.817,86.717,,3700,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1976,1980,daily
+444620,OKHALDHUNGA,Single,Climate,27.3,86.5,,1720,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1976,2022,daily
+444740,TAPLEJUNG,Single,Climate,27.35,87.667,,1732,,Nepal,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1978,2022,daily
 NP_2_00001,Langtang,Network,"Climate, Cryosphere",28.208022,85.565546,1200,3850,5600,Nepal,"ICIMOD, Utrecht University, NVE, DHM",jakob.steiner@uni-graz.at,OPEN,,https://doi.org/10.1002/hyp.14189,Active,"T, P, W, RH, Q, MB, SM, GW, SD, SWE, RAD",NA,NA,2012,2021,hourly
 NP_2_00001,Changri Nup,Single,Climate,27.9925,86.7799,,5470,,Nepal,University Grenoble,patrick.wagnon@univ-grenoble-alpes.fr,AVAILABLE,,,Defunct,"T, RH, W, RAD, MB, SD",NA,NA,2014,2017,hourly
 NP_2_00002,Hidden Valley,Network,"Climate, Hydrology, Cryosphere",28.803038,83.503072,2700,,6000,Nepal,"ICIMOD, NVE",jakob.steiner@uni-graz.at,AVAILABLE,,,Active,"T, P, RH, W, MB, SD, SWE, RAD, SM, ST",NA,NA,2017,2023,hourly
@@ -543,6 +505,27 @@ NP_EWS_00002,Imja Tsho,EWS,GLOF,27.899553,86.907171,,5010,,Nepal,,,NA,,https://l
 NP_EWS_00003,Bhote Koshi,EWS,GLOF,27.912368,85.923632,,1300,,Nepal,,,NA,,,Defunct,SH,NA,NA,,,NA
 NP000444540,KATHMANDU AIRPORT,Single,Climate,27.7,85.367,,1337,,Nepal,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1971,2024,daily
 NPM00044477,DHANKUTA,Single,Climate,26.983,87.35,,1210,,Nepal,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P",,,1976,2023,daily
+415040,GUPIS,Single,Climate,36.167,73.4,,2156,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
+415050,HUNZA,Single,Climate,36.317,74.65,,2374,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2008,2018,daily
+415060,CHITRAL,Single,Climate,35.85,71.833,,1500,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2021,daily
+415070,MET OBSERVATORY TIMERGARA / DIR LOWER,Single,Climate,34.833,71.817,,786,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2008,2022,daily
+415080,DIR,Single,Climate,35.2,71.85,,1369,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1980,2022,daily
+415090,MIR KHANI,Single,Climate,35.5,71.7,,1250,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2006,2018,daily
+415100,KALAM,Single,Climate,35.833,72.983,,2123,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2018,daily
+415160,GILGIT,Single,Climate,35.919,74.334,,1457.2,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2021,daily
+415180,BUNJI,Single,Climate,35.667,74.633,,1470,,Pakistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1941,2021,daily
+415190,CHILLAS,Single,Climate,35.417,74.1,,1251,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2021,daily
+415200,ASTORE,Single,Climate,35.367,74.9,,2168,,Pakistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,Unknown,"T, P",NA,NA,1941,2021,daily
+415205,CHITRAL,Single,Climate,35.883,71.8,,1494,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
+415230,SAIDU SHARIF,Single,Climate,34.733,72.35,,951,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1974,2021,daily
+415235,SAIDU SHARIF,Single,Climate,34.817,72.35,,970,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
+415240,PATTAN,Single,Climate,35.1,73,,752,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2008,2018,daily
+415250,MALAM JABBA,Single,Climate,34.75,72.9,,2691,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2007,2022,daily
+415260,BABUSAR,Single,Climate,35.217,74.1,,2854,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2015,2015,daily
+415310,BATTAL,Single,Climate,34.583,73.15,,1676,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2003,daily
+415350,KAKUL,Single,Climate,34.183,73.25,,1309,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2022,daily
+415360,BALAKOT,Single,Climate,34.383,73.35,,981,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1998,2022,daily
+415740,RAWALAKOT*,Single,Climate,33.85,73.8,,1677,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2008,2008,daily
 PK_1_00001,Gilgit,Single,Climate,35.926375,74.371143,,1470,,Pakistan,WAPDA,syedhammadali2001@yahoo.com,AVAILABLE,,,Active,"T, P, RH, SD",NA,NA,1995,2024,hourly
 PK_1_00002,Shangla,Single,Climate,34.880885,72.590842,,2140,,Pakistan,WAPDA,syedhammadali2001@yahoo.com,AVAILABLE,,,Active,"T, P, RH, SD",NA,NA,1995,2024,hourly
 PK_1_00003,Shigar,Single,Climate,35.63321,75.533146,,2434,,Pakistan,WAPDA,syedhammadali2001@yahoo.com,AVAILABLE,,,Active,"T, P, RH",NA,NA,1995,2024,hourly
@@ -575,6 +558,24 @@ PK008109901,BHIMBER,Single,Climate,32.98,74.07,,326,,Pakistan,GHCNd,,EXT_NET,htt
 PK008119901,MUZAFFARBAD,Single,Climate,34.38,73.47,,684,,Pakistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1901,1947,daily
 PKM00041515,DROSH,Single,Climate,35.567,71.783,,1465,,Pakistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1957,2024,daily
 PKM00041532,MUZAFFAR ABAD,Single,Climate,34.367,73.483,,2303,,Pakistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Unknown,"T, P",,,1957,2021,daily
+387080,FARAB,Single,Climate,39.233,67.467,,1981,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1963,2019,daily
+387180,ISKANDERKUL,Single,Climate,39.1,68.383,,2204,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1930,2022,daily
+387440,LAHSH,Single,Climate,39.283,71.867,,1198,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1973,2022,daily
+388420,BUSTONABAD-IN-TAJIK,Single,Climate,38.683,69.567,,1964,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,2022,daily
+388460,HOVALING,Single,Climate,38.367,69.983,,1468,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,Unknown,"T, P",NA,NA,1936,2022,daily
+388480,KANGURT,Single,Climate,38.25,69.517,,908,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2002,2002,daily
+388510,RASHT,Single,Climate,39,70.3,,1316,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
+388530,KHABURABAD,Single,Climate,38.65,70.717,,3347,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P, SD",NA,NA,1948,2005,daily
+388560,DARVAZ,Single,Climate,38.467,70.883,,1288,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2022,daily
+388620,FEDCENKO GLACIER,Single,Climate,38.917,72.167,,4169,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1937,1997,daily
+388670,HUMRAGI,Single,Climate,38.283,71.333,,1737,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Defunct,"T, P",NA,NA,1973,1997,daily
+388710,KARAKUL LAKE,Single,Climate,39.083,73.417,,3930,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
+388750,KARAKUL,Single,Climate,39.017,73.55,,3940,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1933,2022,daily
+388790,OKSU,Single,Climate,38.067,74.467,,3740,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1977,2002,daily
+389430,KULYAB,Single,Climate,37.917,69.783,,659,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,2021,daily
+389510,RUSHAN,Single,Climate,37.95,71.55,,1981,,Tajikistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1947,2022,daily
+389560,BULUN-KUL,Single,Climate,37.7,72.95,,3744,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1997,daily
+389570,ISHKASHIM,Single,Climate,36.717,71.6,,2523,,Tajikistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Unknown,"T, P",NA,NA,1959,2022,daily
 TI000038705,PENDZHIKENT,Single,Climate,39.5,67.6,,1015,,Tajikistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1961,2024,daily
 TI000038708,LEDNIK-SEVERCOVA,Single,Climate,39.1,67.7,,2690,,Tajikistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1960,1991,daily
 TI000038714,HARAMKUL',Single,Climate,39,68.6,,2800,,Tajikistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1963,1991,daily
@@ -606,6 +607,9 @@ TI000038946,IOL,Single,Climate,37.8,70.2,,1283,,Tajikistan,GHCNd,,EXT_NET,https:
 TI000038954,KHOROG,Single,Climate,37.5,71.5,,2077,,Tajikistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1898,2024,daily
 TI000038956,DJAVSANGOZ,Single,Climate,37.4,72.5,,3438,,Tajikistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1936,1991,daily
 TI000038966,SAJMAK,Single,Climate,37.533,74.833,,3840,,Tajikistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,"T, P, SD",,,1959,2021,daily
+387110,BAHMAL,Single,Climate,39.717,68.017,,1321.7,,Uzbekistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2015,2020,daily
+388270,BAYSUN,Single,Climate,38.2,67.2,,1244.6,,Uzbekistan,ISD,,EXT_NET,"https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global, https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",,,"T, P",NA,NA,1936,2020,daily
+388280,PULE-KHAKIM,Single,Climate,38.167,67.367,,977,,Uzbekistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,2016,daily
 UZM00038339,OLGAING,Single,Climate,42.167,70.883,,2151,,Uzbekistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1962,2024,daily
 UZM00038462,PSKEM,Single,Climate,41.9,70.367,,1258,,Uzbekistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1936,2024,daily
 UZM00038464,CHARVAK,Single,Climate,41.6,70,,971,,Uzbekistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1936,1987,daily
