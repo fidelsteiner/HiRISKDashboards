@@ -8,7 +8,7 @@ def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 
 def get_gj(): 
-    with open('HiRISK_Monitoring/HMA_Monitoring_dashboard/HIMAP_boundaries.geojson') as f:
+    with open('HIMAP_boundaries.geojson') as f:
         gj = geojson.load(f)
     return gj
 
@@ -20,8 +20,8 @@ px.set_mapbox_access_token(mapbox_access_token)
 st.title("HiRisk Monitoring")
 st.divider()
 
-df = pd.read_csv("HiRISK_Monitoring/HMA_Monitoring_dashboard/HiRISKMonitoringDashboard_HMA.csv")
-df['text'] = "<br>HiRISKDB_ID: " + df["HiRISKDB_ID"].astype(str)+"<br>Name: " + df["Name"].astype(str)+"<br>Type: " + df["Type"].astype(str)+"<br>Category: " + df["Category"].astype(str)+"<br>Latitude: " + df["Latitude"].astype(str)+"<br>Longitude: " + df["Longitude"].astype(str)+"<br>min Elevation: " + df["min Elevation"].astype(str)+"<br>Elevation: " + df["Elevation"].astype(str)+"<br>max Elevation: " + df["max Elevation"].astype(str)+"<br>Country: " + df["Country"].astype(str)+"<br>Data owner/Data manager: " + df["Data owner/Data manager"].astype(str)+"<br>Manager email: " + df["Manager email"].astype(str)+"<br>Data Access Quality: " + df["Data Access Quality"].astype(str)+"<br>Data Access (URL): " + df["Data Access (URL)"].astype(str)+"<br>Data Publication: " + df["Data Publication"].astype(str)+"<br>Activity: " + df["Activity"].astype(str)+"<br>Physical Variables: " + df["Physical Variables"].astype(str)+"<br>Socioeconomic dimensions: " + df["Socioeconomic dimensions"].astype(str)+"<br>Hazard data: " + df["Hazard data"].astype(str)+"<br>Start Date: " + df["Start Date"].astype(str)+"<br>End Date: " + df["End Date"].astype(str)+"<br>Temporal frequency (highest): " + df["Temporal frequency (highest)"].astype(str)
+df = pd.read_csv("HiRISKMonitoringDashboard_HMA.csv")
+df['text'] = "<br>HiRISKDB_ID: " + df["HiRISKDB_ID"].astype(str)+"<br>Name: " + df["Name"].astype(str)+"<br>Type: " + df["Type"].astype(str)+"<br>Category: " + df["Category"].astype(str)+"<br>Latitude: " + df["Latitude"].astype(str)+"<br>Longitude: " + df["Longitude"].astype(str)+"<br>min Elevation: " + df["min Elevation"].astype(str)+"<br>Elevation: " + df["Elevation"].astype(str)+"<br>max Elevation: " + df["max Elevation"].astype(str)+"<br>Country: " + df["Country"].astype(str)+"<br>Data owner/Data manager: " + df["Data owner/Data manager"].astype(str)+"<br>Manager email: " + df["Manager email"].astype(str)+"<br>Data Access Quality: " + df["Data Access Quality"].astype(str)+"<br>Data Access (URL): " + df["Data Access (URL)"].astype(str)+"<br>Data Publication: " + df["Data Publication"].astype(str)+"<br>Activity: " + df["Activity"].astype(str)+"<br>Physical Variables: " + df["Physical Variables"].astype(str)+"<br>Socioeconomic dimensions: " + df["Socioeconomic dimensions"].astype(str)+"<br>Hazard data: " + df["Hazard data"].astype(str)+"<br>Start Date: " + df["Start Date"].astype(str)+"<br>End Date: " + df["End Date"].astype(str)+"<br>Temporal frequency (highest): " + df["Temporal frequency (highest)"].astype(str)+"<br>Global network contribution: " + df["Global network contribution"].astype(str)
 variables = sorted(list(set(sorted([x.replace(" ", "") for x in list(set(",".join(df["Physical Variables"].unique().tolist()).strip().split(",")))]))))
 selected_variables = st.multiselect("Select Variables", variables)
 
