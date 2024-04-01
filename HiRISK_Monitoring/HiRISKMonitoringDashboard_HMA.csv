@@ -67,6 +67,65 @@ BT_1_00022,Laya,Single,Climate,28.062861,89.682396,,3864,,Bhutan,,,RESTRICTED,,,
 BT_1_00023,Gasa,Single,Climate,27.902277,89.730756,,2690,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
 BT_1_00024,Punakha,Single,Climate,27.585013,89.864685,,1230,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
 BT_1_00025,Thinleygang,Single,Climate,27.525204,89.804502,,1860,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00026,Lobesa,Single,Climate,27.508842,89.871699,,1460,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00027,Bajo,Single,Climate,27.485155,89.899709,,1300,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00028,Gaselo,Single,Climate,27.420368,89.903802,,1200,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00029,Metatshetho,Single,Climate,27.882976,90.280574,,5000,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00030,Pele La,Single,Climate,27.536462,90.202063,,3440,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00031,Phobjikha,Single,Climate,27.44408,90.178136,,2950,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00032,Dagana,Single,Climate,27.069713,89.882347,,1540,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00033,Karmaling,Single,Climate,26.762534,89.913431,,150,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00034,Dagapela,Single,Climate,26.940285,89.922645,,1590,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00035,Tshangkha,Single,Climate,27.042327,90.036644,,1380,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00036,Damphu,Single,Climate,27.005689,90.123551,,1590,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00037,Medrelgang,Single,Climate,26.951348,90.132735,,1420,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00038,Medrelgang,Single,Climate,26.863869,90.266429,,360,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00039,Bhurgaon,Single,Climate,26.924653,90.401821,,530,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00040,Chuzergang,Single,Climate,26.870334,90.493916,,220,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00041,Jigmecholing,Single,Climate,27.004504,90.553327,,1250,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00042,Maogaon,Single,Climate,27.032919,90.396541,,1300,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00043,Tongtongphay,Single,Climate,27.339729,90.581961,,1100,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00044,Dorji Goempa,Single,Climate,27.505699,90.538752,,2870,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00045,Trongsa,Single,Climate,27.505699,90.538752,,2870,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00046,Tshangkha,Single,Climate,27.463786,90.462153,,2330,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00047,Simphu,Single,Climate,27.602683,90.418428,,2726,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_2_00001,Thana,Network,"Climate, Cryosphere",28.009127,90.617391,,5200,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W, MB",NA,NA,2019,2021,hourly
+BT_1_00048,Dhur,Single,Climate,27.612179,90.673712,,2760,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00049,Tang,Single,Climate,27.557221,90.804486,,2830,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00050,Chamkhar,Single,Climate,27.546767,90.754476,,2570,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00051,Ura,Single,Climate,27.478714,90.905354,,3180,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00052,Zhemgang,Single,Climate,27.142475,90.689683,,580,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00053,Buli,Single,Climate,27.16637,90.819933,,1720,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00054,Khomshar,Single,Climate,27.13433,90.944918,,1340,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00055,Sonamthang,Single,Climate,26.852635,90.98057,,290,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00056,Dungkhar,Single,Climate,27.825795,91.114345,,2040,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00057,Tangmachhu,Single,Climate,27.603226,91.182251,,2021,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00058,Ladrong,Single,Climate,27.455287,91.11978,,2000,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00059,Thrumshing La,Single,Climate,27.401712,90.995053,,3740,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00060,Gyelpotzhing,Single,Climate,27.227034,91.197932,,577,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00061,Mongar,Single,Climate,27.275926,91.238835,,1615,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00062,Kori La,Single,Climate,27.283516,91.300822,,2400,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00063,Yadi,Single,Climate,27.286879,91.371016,,1500,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00064,Jurmey,Single,Climate,27.089163,91.249106,,1360,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00065,Nganglam,Single,Climate,26.83991,91.249398,,580,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00066,Dechhenling,Single,Climate,26.915914,91.222412,,1050,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00067,Yurung,Single,Climate,27.021311,91.345374,,1455,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00068,Pemagatshel,Single,Climate,27.017969,91.400906,,790,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00069,Deothang,Single,Climate,26.857273,91.463494,,840,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00070,Orong,Single,Climate,26.932125,91.495889,,1240,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00071,Gomdhar,Single,Climate,27.006586,91.570559,,1360,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00072,Phuntshothang,Single,Climate,26.885529,91.710335,,390,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00073,Jomotsangkha,Single,Climate,26.898109,92.106256,,340,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00074,Kangpara,Single,Climate,27.122581,91.697769,,1800,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00075,Khaling,Single,Climate,27.205112,91.594493,,2050,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00076,Kanglung,Single,Climate,27.286563,91.523609,,1870,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00077,Chazam,Single,Climate,27.337416,91.54622,,690,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00078,Bidung,Single,Climate,27.374477,91.639052,,1842,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00079,Merak,Single,Climate,27.301388,91.85693,,3550,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00080,Sakteng,Single,Climate,27.4026,91.919874,,2990,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00081,Thragom,Single,Climate,27.44213,91.638869,,2100,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00082,Trashiyangtse,Single,Climate,27.610337,91.498571,,1800,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00083,Tarphel,Single,Climate,27.737916,91.424117,,2300,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
 514300,INING,Single,Climate,43.917,81.283,,670,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1956,1958,daily
 514370,ZHAOSU/MONGGOLKURE,Single,Climate,43.167,81.117,,1830,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1962,1997,daily
 514635,DIWOPU,Single,Climate,43.907,87.474,,647.7,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1985,2022,daily
