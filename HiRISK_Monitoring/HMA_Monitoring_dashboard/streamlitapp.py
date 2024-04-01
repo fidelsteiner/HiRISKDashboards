@@ -8,7 +8,7 @@ def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 
 def get_gj(): 
-    with open('HIMAP_boundaries.geojson') as f:
+    with open('HiRISK_Monitoring/HMA_Monitoring_dashboard/HIMAP_boundaries.geojson') as f:
         gj = geojson.load(f)
     return gj
 
