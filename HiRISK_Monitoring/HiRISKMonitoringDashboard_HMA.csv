@@ -37,11 +37,36 @@ AF_1_00024,Gardandiwal-SSS,Single,"Climate, Cryosphere",34.49814,68.21102,,2963,
 AF_1_00025,Kotal-i-Hajigak-SSS,Single,"Climate, Cryosphere",34.65611,68.11695,,3256,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2023,hourly
 AF_1_00026,Kotal-i-Sabzak-SSS,Single,"Climate, Cryosphere",34.63813,63.11439,,2459,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2018,hourly
 AF_1_00027,Alandar-SSS,Single,"Climate, Cryosphere",34.53963,65.1191,,2311,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
-433990,PARO,Single,Climate,27.403,89.425,,2234.8,,Bhutan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2010,2022,daily
+433990,PARO,Single,Climate,27.403,89.425,,2235,,Bhutan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2010,2022,daily
 BT_EWS_00001,Lunana,EWS,GLOF,28.09274,90.227052,,4270,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20Doumentation%20Final%20Report%20Version%20_7%20June%202013.pdf,Active,"SH, T, P",NA,NA,2011,2024,NA
 BT_EWS_00002,Amocchu,EWS,GLOF,27.135467,89.134396,,880,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/ammochhu.pdf,Active,"SH, T, P",NA,NA,2020,2024,NA
 BT_EWS_00003,Mangdecchu,EWS,GLOF,27.60295,90.498807,,2100,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20JICA%20Mangdechhu%20and%20Chamkharchhu.pdf,Active,"SH, T, P",NA,NA,2016,2024,NA
 BT_EWS_00004,Chamkharchhu,EWS,GLOF,27.858314,90.661677,,3755,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20JICA%20Mangdechhu%20and%20Chamkharchhu.pdf,Active,"SH, T, P",NA,NA,2016,2024,NA
+BT_1_00001,Dorithasa,Single,Climate,27.14139,89.15079,,1700,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00001,Sibsoo,Single,Climate,27.0019,88.880094,,380,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00003,Samtse,Single,Climate,26.904781,89.076173,,322,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00004,Dorokha,Single,Climate,27.000772,89.20545,,1000,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00005,Chele La,Single,Climate,27.367505,89.349004,,3800,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00006,Haa,Single,Climate,27.385657,89.277116,,2727,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00007,Gunitsawa,Single,Climate,27.569262,89.301834,,2769,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00008,Gunitsawa,Single,Climate,27.598314,89.288542,,2869,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00009,Pangbisa,Single,Climate,27.34614,89.43711,,2700,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00010,Tsimalakha,Single,Climate,27.085423,89.541857,,2280,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00011,Gedu,Single,Climate,26.923893,89.524852,,1940,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00012,Malbase,Single,Climate,26.857904,89.445618,,420,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00013,Kamji,Single,Climate,26.887355,89.455638,,1420,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00014,CST,Single,Climate,26.858875,89.386111,,260,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00015,Tala,Single,Climate,26.87099,89.581229,,1600,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00016,Bjeezima,Single,Climate,27.419073,89.554441,,2400,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00017,Babesa,Single,Climate,27.434251,89.653885,,2300,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00018,Hongtsho,Single,Climate,27.437474,89.675088,,2330,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00019,Kuzhugchen,Single,Climate,27.559409,89.652812,,2502,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00020,Lingzhi,Single,Climate,27.857921,89.442525,,3900,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00021,Geu,Single,Climate,27.850014,89.400587,,4200,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00022,Laya,Single,Climate,28.062861,89.682396,,3864,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00023,Gasa,Single,Climate,27.902277,89.730756,,2690,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00024,Punakha,Single,Climate,27.585013,89.864685,,1230,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00025,Thinleygang,Single,Climate,27.525204,89.804502,,1860,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
 514300,INING,Single,Climate,43.917,81.283,,670,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1956,1958,daily
 514370,ZHAOSU/MONGGOLKURE,Single,Climate,43.167,81.117,,1830,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1962,1997,daily
 514635,DIWOPU,Single,Climate,43.907,87.474,,647.7,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1985,2022,daily
@@ -187,9 +212,9 @@ CN_2_00015,Fukang,Network,"Climate, Cryosphere",44.153786,88.019112,,560,,China,
 CN_2_00016,ETCON,Network,"Climate, Cryosphere, Hydrology",43.115979,86.837615,3300,,4400,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, MB, RH",NA,NA,1959,2024,hourly
 CN_2_00017,CRS_Maxian,Network,"Climate, Cryosphere",35.725979,103.988978,,3560,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH, GT",NA,NA,2005,2024,hourly
 CN_2_00018,CRS_Tianshui,Network,"Climate, Cryosphere",35.583686,79.884658,,5650,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH, GT",NA,NA,2005,2024,hourly
-CN_2_00019,CRS_Daxigou,Network,"Climate, Cryosphere",43.16703,86.924569,,?,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH, GT",NA,NA,2005,2024,hourly
-CN_2_00020,CRS_Wenquan,Network,"Climate, Cryosphere",35.334727,99.081269,,?,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH",NA,NA,2005,2024,hourly
-CN_2_00021,SETCON,Network,"Climate, Cryosphere",27.176327,100.225741,,?,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH",NA,NA,2006,2024,hourly
+CN_2_00019,CRS_Daxigou,Network,"Climate, Cryosphere",43.16703,86.924569,,NA,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH, GT",NA,NA,2005,2024,hourly
+CN_2_00020,CRS_Wenquan,Network,"Climate, Cryosphere",35.334727,99.081269,,NA,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH",NA,NA,2005,2024,hourly
+CN_2_00021,SETCON,Network,"Climate, Cryosphere",27.176327,100.225741,,NA,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH",NA,NA,2006,2024,hourly
 CN_2_00022,Bayi,Network,"Climate, Cryosphere",39.01,98.88,3850,,4650,China,Han chuntan,hancht@lzb.ac.cn,AVAILABLE,http://www.bdc.ac.cn/portal/metadata/47121bb4-562c-4693-9513-92a7143223c9,,Active,"T, RH, W, P",NA,NA,2020,2023,daily
 CN_1_00001,August 1 Glacier,Single,"Climate, Cryosphere",39.02,98.89,,4520,,China,Guo shuhai,guoshuhai@lzb.ac.cn,AVAILABLE,https://data.tpdc.ac.cn/zh-hans/data/db63e7e3-a4a6-480c-a3ee-ca9979aa5663, https://cstr.cn/18406.11.Cryos.tpdc.300789,Active,"W, T, RH, MB",NA,NA,2017,2021,hourly
 CN_EWS_00001,Sedongpu,EWS,Debris flow,29.748661,94.93956,,2763,,China,Wei Yang,yangww@itpcas.ac.cn,RESTRICTED,,https://doi.org/10.5194/nhess-23-3015-2023,Active,"SH, Camera, T, P, RAD",NA,"DF, avalanche",2019,2024,hourly
@@ -210,7 +235,7 @@ CN_EWS_00003,Cirenmaco,EWS,GLOF,28.073856,86.057142,,4612,,China,Weicai Wang,wei
 423120,ZIRO,Single,Climate,27.917,94.8,,1476,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2001,2017,daily
 427051,KULLU MANALI,Single,Climate,31.877,77.154,,1089.1,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2004,2022,daily
 427053,LEH,Single,Climate,34.136,77.547,,3255.9,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2006,2022,daily
-IN_1_00001,Baghirati,Single,Climate,30.715852,79.161979,,?,,India,Wadia,?,AVAILABLE,,,Defunct,"T, P, RH, W",NA,NA,2011,?,daily
+IN_1_00001,Baghirati,Single,Climate,30.715852,79.161979,,NA,,India,Wadia,?,AVAILABLE,,,Defunct,"T, P, RH, W",NA,NA,2011,?,daily
 IN_2_00001,Dokriani,Network,"Climate, Hydrology, Cryosphere",30.909924,78.816117,2540,,4364,India,Wadia,?,AVAILABLE,,,?,"T, P, RH, W, Q, MB",NA,NA,2011,?,daily
 IN_2_00002,Chhota Shigri,Network,"Climate, Cryosphere, Hydrology",32.245853,77.520967,,4863,,India,IIT,farooqazam@iiti.ac.in,AVAILABLE,,https://doi.org/10.1017/jog.2020.42 ,Active,"T, RH, W, RAD, SD, MB, Q",NA,NA,2002,2023,hourly
 IN_2_00003,South Pullu,Network,"Climate, Cryosphere",34.25,77.62,,4727,,India,IIT Roorkee,? johnn.nith@gmail.com,RESTRICTED,,https://doi.org/10.1016/j.scitotenv.2019.134631,?,"T, RH, RAD, W, SD",NA,NA,2015,2017,hourly
