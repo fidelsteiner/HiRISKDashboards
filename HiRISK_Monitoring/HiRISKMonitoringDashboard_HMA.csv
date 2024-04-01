@@ -38,94 +38,110 @@ AF_1_00025,Kotal-i-Hajigak-SSS,Single,"Climate, Cryosphere",34.65611,68.11695,,3
 AF_1_00026,Kotal-i-Sabzak-SSS,Single,"Climate, Cryosphere",34.63813,63.11439,,2459,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2013,2018,hourly
 AF_1_00027,Alandar-SSS,Single,"Climate, Cryosphere",34.53963,65.1191,,2311,,Afghanistan,,,RESTRICTED,,,Active,"SD, T, RH, W",NA,NA,2012,2023,hourly
 433990,PARO,Single,Climate,27.403,89.425,,2235,,Bhutan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2010,2022,daily
-BT_EWS_00001,Lunana,EWS,GLOF,28.09274,90.227052,,4270,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20Doumentation%20Final%20Report%20Version%20_7%20June%202013.pdf,Active,"SH, T, P",NA,NA,2011,2024,NA
-BT_EWS_00002,Amocchu,EWS,GLOF,27.135467,89.134396,,880,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/ammochhu.pdf,Active,"SH, T, P",NA,NA,2020,2024,NA
-BT_EWS_00003,Mangdecchu,EWS,GLOF,27.60295,90.498807,,2100,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20JICA%20Mangdechhu%20and%20Chamkharchhu.pdf,Active,"SH, T, P",NA,NA,2016,2024,NA
-BT_EWS_00004,Chamkharchhu,EWS,GLOF,27.858314,90.661677,,3755,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20JICA%20Mangdechhu%20and%20Chamkharchhu.pdf,Active,"SH, T, P",NA,NA,2016,2024,NA
-BT_1_00001,Dorithasa,Single,Climate,27.14139,89.15079,,1700,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00001,Sibsoo,Single,Climate,27.0019,88.880094,,380,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00003,Samtse,Single,Climate,26.904781,89.076173,,322,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00004,Dorokha,Single,Climate,27.000772,89.20545,,1000,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00005,Chele La,Single,Climate,27.367505,89.349004,,3800,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00006,Haa,Single,Climate,27.385657,89.277116,,2727,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00007,Gunitsawa,Single,Climate,27.569262,89.301834,,2769,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00008,Gunitsawa,Single,Climate,27.598314,89.288542,,2869,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00009,Pangbisa,Single,Climate,27.34614,89.43711,,2700,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00010,Tsimalakha,Single,Climate,27.085423,89.541857,,2280,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00011,Gedu,Single,Climate,26.923893,89.524852,,1940,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00012,Malbase,Single,Climate,26.857904,89.445618,,420,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00013,Kamji,Single,Climate,26.887355,89.455638,,1420,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00014,CST,Single,Climate,26.858875,89.386111,,260,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00015,Tala,Single,Climate,26.87099,89.581229,,1600,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00016,Bjeezima,Single,Climate,27.419073,89.554441,,2400,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00017,Babesa,Single,Climate,27.434251,89.653885,,2300,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00018,Hongtsho,Single,Climate,27.437474,89.675088,,2330,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00019,Kuzhugchen,Single,Climate,27.559409,89.652812,,2502,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00020,Lingzhi,Single,Climate,27.857921,89.442525,,3900,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00021,Geu,Single,Climate,27.850014,89.400587,,4200,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00022,Laya,Single,Climate,28.062861,89.682396,,3864,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00023,Gasa,Single,Climate,27.902277,89.730756,,2690,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00024,Punakha,Single,Climate,27.585013,89.864685,,1230,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00025,Thinleygang,Single,Climate,27.525204,89.804502,,1860,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00026,Lobesa,Single,Climate,27.508842,89.871699,,1460,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00027,Bajo,Single,Climate,27.485155,89.899709,,1300,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00028,Gaselo,Single,Climate,27.420368,89.903802,,1200,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00029,Metatshetho,Single,Climate,27.882976,90.280574,,5000,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00030,Pele La,Single,Climate,27.536462,90.202063,,3440,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00031,Phobjikha,Single,Climate,27.44408,90.178136,,2950,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00032,Dagana,Single,Climate,27.069713,89.882347,,1540,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00033,Karmaling,Single,Climate,26.762534,89.913431,,150,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00034,Dagapela,Single,Climate,26.940285,89.922645,,1590,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00035,Tshangkha,Single,Climate,27.042327,90.036644,,1380,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00036,Damphu,Single,Climate,27.005689,90.123551,,1590,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00037,Medrelgang,Single,Climate,26.951348,90.132735,,1420,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00038,Medrelgang,Single,Climate,26.863869,90.266429,,360,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00039,Bhurgaon,Single,Climate,26.924653,90.401821,,530,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00040,Chuzergang,Single,Climate,26.870334,90.493916,,220,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00041,Jigmecholing,Single,Climate,27.004504,90.553327,,1250,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00042,Maogaon,Single,Climate,27.032919,90.396541,,1300,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00043,Tongtongphay,Single,Climate,27.339729,90.581961,,1100,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00044,Dorji Goempa,Single,Climate,27.505699,90.538752,,2870,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00045,Trongsa,Single,Climate,27.505699,90.538752,,2870,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00046,Tshangkha,Single,Climate,27.463786,90.462153,,2330,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00047,Simphu,Single,Climate,27.602683,90.418428,,2726,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_2_00001,Thana,Network,"Climate, Cryosphere",28.009127,90.617391,,5200,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W, MB",NA,NA,2019,2021,hourly
-BT_1_00048,Dhur,Single,Climate,27.612179,90.673712,,2760,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00049,Tang,Single,Climate,27.557221,90.804486,,2830,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00050,Chamkhar,Single,Climate,27.546767,90.754476,,2570,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00051,Ura,Single,Climate,27.478714,90.905354,,3180,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00052,Zhemgang,Single,Climate,27.142475,90.689683,,580,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00053,Buli,Single,Climate,27.16637,90.819933,,1720,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00054,Khomshar,Single,Climate,27.13433,90.944918,,1340,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00055,Sonamthang,Single,Climate,26.852635,90.98057,,290,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00056,Dungkhar,Single,Climate,27.825795,91.114345,,2040,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00057,Tangmachhu,Single,Climate,27.603226,91.182251,,2021,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00058,Ladrong,Single,Climate,27.455287,91.11978,,2000,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00059,Thrumshing La,Single,Climate,27.401712,90.995053,,3740,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00060,Gyelpotzhing,Single,Climate,27.227034,91.197932,,577,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00061,Mongar,Single,Climate,27.275926,91.238835,,1615,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00062,Kori La,Single,Climate,27.283516,91.300822,,2400,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00063,Yadi,Single,Climate,27.286879,91.371016,,1500,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00064,Jurmey,Single,Climate,27.089163,91.249106,,1360,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00065,Nganglam,Single,Climate,26.83991,91.249398,,580,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00066,Dechhenling,Single,Climate,26.915914,91.222412,,1050,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00067,Yurung,Single,Climate,27.021311,91.345374,,1455,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00068,Pemagatshel,Single,Climate,27.017969,91.400906,,790,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00069,Deothang,Single,Climate,26.857273,91.463494,,840,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00070,Orong,Single,Climate,26.932125,91.495889,,1240,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00071,Gomdhar,Single,Climate,27.006586,91.570559,,1360,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00072,Phuntshothang,Single,Climate,26.885529,91.710335,,390,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00073,Jomotsangkha,Single,Climate,26.898109,92.106256,,340,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00074,Kangpara,Single,Climate,27.122581,91.697769,,1800,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00075,Khaling,Single,Climate,27.205112,91.594493,,2050,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00076,Kanglung,Single,Climate,27.286563,91.523609,,1870,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00077,Chazam,Single,Climate,27.337416,91.54622,,690,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00078,Bidung,Single,Climate,27.374477,91.639052,,1842,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00079,Merak,Single,Climate,27.301388,91.85693,,3550,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00080,Sakteng,Single,Climate,27.4026,91.919874,,2990,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00081,Thragom,Single,Climate,27.44213,91.638869,,2100,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00082,Trashiyangtse,Single,Climate,27.610337,91.498571,,1800,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
-BT_1_00083,Tarphel,Single,Climate,27.737916,91.424117,,2300,,Bhutan,,,RESTRICTED,,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_EWS_00001,Lunana,EWS,GLOF,28.09274,90.227052,,4270,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20Doumentation%20Final%20Report%20Version%20_7%20June%202013.pdf,Active,"Q, T, P",NA,NA,2011,2024,NA
+BT_EWS_00002,Amocchu,EWS,GLOF,27.135467,89.134396,,880,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/ammochhu.pdf,Active,"Q, T, P",NA,NA,2020,2024,NA
+BT_EWS_00003,Mangdecchu,EWS,GLOF,27.60295,90.498807,,2100,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20JICA%20Mangdechhu%20and%20Chamkharchhu.pdf,Active,"Q, T, P",NA,NA,2016,2024,NA
+BT_EWS_00004,Chamkharchhu,EWS,GLOF,27.858314,90.661677,,3755,,Bhutan,,,AVAILABLE,,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/GLOF%20EWS%20JICA%20Mangdechhu%20and%20Chamkharchhu.pdf,Active,"Q, T, P",NA,NA,2016,2024,NA
+BT_1_00001,Dorithasa,Single,Climate,27.14139,89.15079,,1700,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00001,Sibsoo,Single,Climate,27.0019,88.880094,,380,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00003,Samtse,Single,Climate,26.904781,89.076173,,322,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00004,Dorokha,Single,Climate,27.000772,89.20545,,1000,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00005,Chele La,Single,Climate,27.367505,89.349004,,3800,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00006,Haa,Single,Climate,27.385657,89.277116,,2727,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00007,Gunitsawa,Single,Climate,27.569262,89.301834,,2769,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00008,Gunitsawa,Single,Climate,27.598314,89.288542,,2869,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00009,Pangbisa,Single,Climate,27.34614,89.43711,,2700,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00010,Tsimalakha,Single,Climate,27.085423,89.541857,,2280,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00011,Gedu,Single,Climate,26.923893,89.524852,,1940,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00012,Malbase,Single,Climate,26.857904,89.445618,,420,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00013,Kamji,Single,Climate,26.887355,89.455638,,1420,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00014,CST,Single,Climate,26.858875,89.386111,,260,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00015,Tala,Single,Climate,26.87099,89.581229,,1600,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00016,Bjeezima,Single,Climate,27.419073,89.554441,,2400,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00017,Babesa,Single,Climate,27.434251,89.653885,,2300,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00018,Hongtsho,Single,Climate,27.437474,89.675088,,2330,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00019,Kuzhugchen,Single,Climate,27.559409,89.652812,,2502,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00020,Lingzhi,Single,Climate,27.857921,89.442525,,3900,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00021,Geu,Single,Climate,27.850014,89.400587,,4200,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00022,Laya,Single,Climate,28.062861,89.682396,,3864,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00023,Gasa,Single,Climate,27.902277,89.730756,,2690,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00024,Punakha,Single,Climate,27.585013,89.864685,,1230,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00025,Thinleygang,Single,Climate,27.525204,89.804502,,1860,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00026,Lobesa,Single,Climate,27.508842,89.871699,,1460,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00027,Bajo,Single,Climate,27.485155,89.899709,,1300,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00028,Gaselo,Single,Climate,27.420368,89.903802,,1200,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00029,Metatshetho,Single,Climate,27.882976,90.280574,,5000,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00030,Pele La,Single,Climate,27.536462,90.202063,,3440,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00031,Phobjikha,Single,Climate,27.44408,90.178136,,2950,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00032,Dagana,Single,Climate,27.069713,89.882347,,1540,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00033,Karmaling,Single,Climate,26.762534,89.913431,,150,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00034,Dagapela,Single,Climate,26.940285,89.922645,,1590,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00035,Tshangkha,Single,Climate,27.042327,90.036644,,1380,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00036,Damphu,Single,Climate,27.005689,90.123551,,1590,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00037,Medrelgang,Single,Climate,26.951348,90.132735,,1420,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00038,Medrelgang,Single,Climate,26.863869,90.266429,,360,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00039,Bhurgaon,Single,Climate,26.924653,90.401821,,530,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00040,Chuzergang,Single,Climate,26.870334,90.493916,,220,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00041,Jigmecholing,Single,Climate,27.004504,90.553327,,1250,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00042,Maogaon,Single,Climate,27.032919,90.396541,,1300,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00043,Tongtongphay,Single,Climate,27.339729,90.581961,,1100,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00044,Dorji Goempa,Single,Climate,27.505699,90.538752,,2870,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00045,Trongsa,Single,Climate,27.505699,90.538752,,2870,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00046,Tshangkha,Single,Climate,27.463786,90.462153,,2330,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00047,Simphu,Single,Climate,27.602683,90.418428,,2726,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_2_00001,Thana,Network,"Climate, Cryosphere",28.009127,90.617391,,5200,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W, MB",NA,NA,2019,2021,hourly
+BT_1_00048,Dhur,Single,Climate,27.612179,90.673712,,2760,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00049,Tang,Single,Climate,27.557221,90.804486,,2830,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00050,Chamkhar,Single,Climate,27.546767,90.754476,,2570,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00051,Ura,Single,Climate,27.478714,90.905354,,3180,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00052,Zhemgang,Single,Climate,27.142475,90.689683,,580,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00053,Buli,Single,Climate,27.16637,90.819933,,1720,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00054,Khomshar,Single,Climate,27.13433,90.944918,,1340,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00055,Sonamthang,Single,Climate,26.852635,90.98057,,290,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00056,Dungkhar,Single,Climate,27.825795,91.114345,,2040,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00057,Tangmachhu,Single,Climate,27.603226,91.182251,,2021,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00058,Ladrong,Single,Climate,27.455287,91.11978,,2000,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00059,Thrumshing La,Single,Climate,27.401712,90.995053,,3740,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00060,Gyelpotzhing,Single,Climate,27.227034,91.197932,,577,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00061,Mongar,Single,Climate,27.275926,91.238835,,1615,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00062,Kori La,Single,Climate,27.283516,91.300822,,2400,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00063,Yadi,Single,Climate,27.286879,91.371016,,1500,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00064,Jurmey,Single,Climate,27.089163,91.249106,,1360,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00065,Nganglam,Single,Climate,26.83991,91.249398,,580,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00066,Dechhenling,Single,Climate,26.915914,91.222412,,1050,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00067,Yurung,Single,Climate,27.021311,91.345374,,1455,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00068,Pemagatshel,Single,Climate,27.017969,91.400906,,790,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00069,Deothang,Single,Climate,26.857273,91.463494,,840,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00070,Orong,Single,Climate,26.932125,91.495889,,1240,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00071,Gomdhar,Single,Climate,27.006586,91.570559,,1360,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00072,Phuntshothang,Single,Climate,26.885529,91.710335,,390,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00073,Jomotsangkha,Single,Climate,26.898109,92.106256,,340,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00074,Kangpara,Single,Climate,27.122581,91.697769,,1800,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00075,Khaling,Single,Climate,27.205112,91.594493,,2050,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00076,Kanglung,Single,Climate,27.286563,91.523609,,1870,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00077,Chazam,Single,Climate,27.337416,91.54622,,690,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00078,Bidung,Single,Climate,27.374477,91.639052,,1842,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00079,Merak,Single,Climate,27.301388,91.85693,,3550,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00080,Sakteng,Single,Climate,27.4026,91.919874,,2990,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00081,Thragom,Single,Climate,27.44213,91.638869,,2100,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00082,Trashiyangtse,Single,Climate,27.610337,91.498571,,1800,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00083,Tarphel,Single,Climate,27.737916,91.424117,,2300,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,"T, P, RH, W",NA,NA,,2021,hourly
+BT_1_00084,Doyagang,Single,Hydrology,26.886424,89.334954,,260,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00085,Tamchhu,Single,Hydrology,27.269365,89.531554,,2050,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00086,Lungtenphug,Single,Hydrology,27.452201,89.653281,,2280,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00087,Wangdirapids,Single,Hydrology,27.461598,89.900537,,1195,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00088,Yebesa,Single,Hydrology,27.668462,89.774501,,1380,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00089,Kerabari,Single,Hydrology,26.759739,89.927539,,152,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00090,Dobani,Single,Hydrology,27.010166,90.072151,,350,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00091,Pangang,Single,Hydrology,26.852416,90.961422,,150,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00092,Tingtibi,Single,Hydrology,27.146202,90.690788,,537,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00093,Bjizam,Single,Hydrology,27.520409,90.459642,,1880,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00094,Kurjey,Single,Hydrology,27.613467,90.714494,,2650,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00095,Bemethang,Single,Hydrology,27.279453,90.931688,,1338,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00096,Kurizampa,Single,Hydrology,27.274218,91.193547,,560,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00096,Sumpa,Single,Hydrology,27.65781,91.209076,,1190,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00097,Uzorong,Single,Hydrology,27.256614,91.412326,,570,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
+BT_1_00096,Muktirap,Single,Hydrology,27.587652,91.492513,,1700,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
 514300,INING,Single,Climate,43.917,81.283,,670,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1956,1958,daily
 514370,ZHAOSU/MONGGOLKURE,Single,Climate,43.167,81.117,,1830,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1962,1997,daily
 514635,DIWOPU,Single,Climate,43.907,87.474,,647.7,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1985,2022,daily
@@ -276,9 +292,9 @@ CN_2_00020,CRS_Wenquan,Network,"Climate, Cryosphere",35.334727,99.081269,,NA,,Ch
 CN_2_00021,SETCON,Network,"Climate, Cryosphere",27.176327,100.225741,,NA,,China,,,RESTRICTED,,https://globalcryospherewatch.org/reference/documents/files/High-Asia_cryosphere_network_2012.pdf,Active,"T, P, SD, W, RH",NA,NA,2006,2024,hourly
 CN_2_00022,Bayi,Network,"Climate, Cryosphere",39.01,98.88,3850,,4650,China,Han chuntan,hancht@lzb.ac.cn,AVAILABLE,http://www.bdc.ac.cn/portal/metadata/47121bb4-562c-4693-9513-92a7143223c9,,Active,"T, RH, W, P",NA,NA,2020,2023,daily
 CN_1_00001,August 1 Glacier,Single,"Climate, Cryosphere",39.02,98.89,,4520,,China,Guo shuhai,guoshuhai@lzb.ac.cn,AVAILABLE,https://data.tpdc.ac.cn/zh-hans/data/db63e7e3-a4a6-480c-a3ee-ca9979aa5663, https://cstr.cn/18406.11.Cryos.tpdc.300789,Active,"W, T, RH, MB",NA,NA,2017,2021,hourly
-CN_EWS_00001,Sedongpu,EWS,Debris flow,29.748661,94.93956,,2763,,China,Wei Yang,yangww@itpcas.ac.cn,RESTRICTED,,https://doi.org/10.5194/nhess-23-3015-2023,Active,"SH, Camera, T, P, RAD",NA,"DF, avalanche",2019,2024,hourly
-CN_EWS_00002,Kyagar,EWS,GLOF,35.71,77.01,,4600,,China,,,NA,,10.3189/2014 AoG66A001,Defunct,"SH, Camera",NA,GLOF,2015,2018,NA
-CN_EWS_00003,Cirenmaco,EWS,GLOF,28.073856,86.057142,,4612,,China,Weicai Wang,weicaiwang@itpcas.ac.cn,AVAILABLE,http://holo-earth.cn:9022/,https://doi.org/10.1016/j.ijdrr.2022.102914,Active,"SH, Camera, T, P, RAD, W",NA,NA,2021,2024,NA
+CN_EWS_00001,Sedongpu,EWS,Debris flow,29.748661,94.93956,,2763,,China,Wei Yang,yangww@itpcas.ac.cn,RESTRICTED,,https://doi.org/10.5194/nhess-23-3015-2023,Active,"Q, Camera, T, P, RAD",NA,"DF, avalanche",2019,2024,hourly
+CN_EWS_00002,Kyagar,EWS,GLOF,35.71,77.01,,4600,,China,,,NA,,10.3189/2014 AoG66A001,Defunct,"Q, Camera",NA,GLOF,2015,2018,NA
+CN_EWS_00003,Cirenmaco,EWS,GLOF,28.073856,86.057142,,4612,,China,Weicai Wang,weicaiwang@itpcas.ac.cn,AVAILABLE,http://holo-earth.cn:9022/,https://doi.org/10.1016/j.ijdrr.2022.102914,Active,"Q, Camera, T, P, RAD, W",NA,NA,2021,2024,NA
 420260,GULMARG,Single,Climate,34.05,74.4,,2655,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1944,2022,daily
 420340,LEH         ,Single,Climate,34.15,77.567,,3513,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1944,1948,daily
 420420,SRINAGAR,Single,Climate,33.983,74.783,,1664,,India,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1988,2019,daily
@@ -298,7 +314,7 @@ IN_1_00001,Baghirati,Single,Climate,30.715852,79.161979,,NA,,India,Wadia,?,AVAIL
 IN_2_00001,Dokriani,Network,"Climate, Hydrology, Cryosphere",30.909924,78.816117,2540,,4364,India,Wadia,?,AVAILABLE,,,?,"T, P, RH, W, Q, MB",NA,NA,2011,?,daily
 IN_2_00002,Chhota Shigri,Network,"Climate, Cryosphere, Hydrology",32.245853,77.520967,,4863,,India,IIT,farooqazam@iiti.ac.in,AVAILABLE,,https://doi.org/10.1017/jog.2020.42 ,Active,"T, RH, W, RAD, SD, MB, Q",NA,NA,2002,2023,hourly
 IN_2_00003,South Pullu,Network,"Climate, Cryosphere",34.25,77.62,,4727,,India,IIT Roorkee,? johnn.nith@gmail.com,RESTRICTED,,https://doi.org/10.1016/j.scitotenv.2019.134631,?,"T, RH, RAD, W, SD",NA,NA,2015,2017,hourly
-IN_EWS_00001,South Lonak,EWS,GLOF,27.938729,88.337941,,5080,,India,,,AVAILABLE,,,Defunct,"SH, Camera, T, P, RH, RAD, W",NA,GLOF,2023,2023,NA
+IN_EWS_00001,South Lonak,EWS,GLOF,27.938729,88.337941,,5080,,India,,,AVAILABLE,,,Defunct,"Q, Camera, T, P, RH, RAD, W",NA,GLOF,2023,2023,NA
 IN002010100,BOMDILA,Single,Climate,27.27,92.43,,2484,,India,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,NA,NA,1965,1970,daily
 IN002050800,DENNING,Single,Climate,27.87,94.83,,98,,India,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,NA,NA,1929,1951,daily
 IN004020500,GAUNAHA,Single,Climate,27.35,84.52,,374,,India,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,NA,NA,1957,1970,daily
@@ -505,7 +521,7 @@ KZ000038338,CUULDAK,Single,Climate,42.3,70.4,,1947,,Kazakhstan,GHCNd,,EXT_NET,ht
 383530,BISHKEK,Single,Climate,42.85,74.533,,760,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,Unknown,"T, P",NA,NA,1946,2022,daily
 384660,TERS,Single,Climate,41.667,70.717,,1759,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1959,1996,daily
 386280,KOKMAGDAY,Single,Climate,40.25,74,,,,Kyrgyzstan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1960,1963,daily
-KG_EWS_00001,Teztor,EWS,GLOF,42.54,74.43,,3550,,Kyrgyzstan,,,NA,,10.1007/s10346-017-0862-3,Active,SH,NA,GLOF,2011,2024,NA
+KG_EWS_00001,Teztor,EWS,GLOF,42.54,74.43,,3550,,Kyrgyzstan,,,NA,,10.1007/s10346-017-0862-3,Active,Q,NA,GLOF,2011,2024,NA
 KG000036911,TOKMAK,Single,Climate,42.833,75.283,,817,,Kyrgyzstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1936,2024,daily
 KG000036914,ISIK-ATA,Single,Climate,42.7,75,,1031,,Kyrgyzstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1959,1991,daily
 KG000036915,YUBILEYNAYA,Single,Climate,42.6,75.6,,2360,,Kyrgyzstan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Defunct,P,,,1969,1991,daily
@@ -584,9 +600,9 @@ NP_2_00003,Everest,Network,Climate,27.987816,86.923251,3810,,8430,Nepal,National
 NP_2_00004,Mera,Network,"Climate, Cryosphere",27.717068,86.896798,,5410,,Nepal,University Grenoble,fanny.brun@univ-grenoble-alpes.fr,AVAILABLE,,https://doi.org/10.1080/07900627.2015.1020417,Active,"T, RH, W, RAD, MB, SD",NA,NA,2007,2024,hourly
 NP_2_00005,Trambau,Network,"Climate, Cryosphere",27.9,86.5,,4806,,Nepal,University Nagoya,cozy.fujita@gmail.com,AVAILABLE,,,Active,"T, RH, P, RAD, MB, SD",NA,NA,2016,2023,hourly
 NP_2_00006,Humla,Network,"Climate, Cryosphere",29.979035,81.969512,,2900,,Nepal,Prashant Baral,prashant.baral@icimod.org,RESTRICTED,,,Active,"T, RH",NA,NA,2021,2024,hourly
-NP_EWS_00001,Tsho Rolpa,EWS,GLOF,27.869969,86.462662,,4500,,Nepal,,,NA,,https://lib.icimod.org/record/8749/files/36_HMRSC-X_Gurung.pdf,Active,SH,NA,NA,1995,2024,NA
-NP_EWS_00002,Imja Tsho,EWS,GLOF,27.899553,86.907171,,5010,,Nepal,,,NA,,https://lib.icimod.org/record/8749/files/36_HMRSC-X_Gurung.pdf,Active,SH,NA,NA,1998,2024,NA
-NP_EWS_00003,Bhote Koshi,EWS,GLOF,27.912368,85.923632,,1300,,Nepal,,,NA,,,Defunct,SH,NA,NA,,,NA
+NP_EWS_00001,Tsho Rolpa,EWS,GLOF,27.869969,86.462662,,4500,,Nepal,,,NA,,https://lib.icimod.org/record/8749/files/36_HMRSC-X_Gurung.pdf,Active,Q,NA,NA,1995,2024,NA
+NP_EWS_00002,Imja Tsho,EWS,GLOF,27.899553,86.907171,,5010,,Nepal,,,NA,,https://lib.icimod.org/record/8749/files/36_HMRSC-X_Gurung.pdf,Active,Q,NA,NA,1998,2024,NA
+NP_EWS_00003,Bhote Koshi,EWS,GLOF,27.912368,85.923632,,1300,,Nepal,,,NA,,,Defunct,Q,NA,NA,,,NA
 NP000444540,KATHMANDU AIRPORT,Single,Climate,27.7,85.367,,1337,,Nepal,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P, SD",,,1971,2024,daily
 NPM00044477,DHANKUTA,Single,Climate,26.983,87.35,,1210,,Nepal,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P",,,1976,2023,daily
 415040,GUPIS,Single,Climate,36.167,73.4,,2156,,Pakistan,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,2005,2022,daily
@@ -631,8 +647,8 @@ PK_1_00018,Burzil,Single,Climate,34.899674,75.166924,,3990,,Pakistan,WAPDA,syedh
 PK_1_00019,Deosai,Single,Climate,35.0875,75.538333,,4070,,Pakistan,WAPDA,syedhammadali2001@yahoo.com,AVAILABLE,,,Active,"T, P, RH",NA,NA,1995,2024,hourly
 PK_1_00020,Kunjerab,Single,Climate,35.841197,75.41937,,2740,,Pakistan,WAPDA,syedhammadali2001@yahoo.com,AVAILABLE,,,Active,"T, P, RH",NA,NA,1995,2024,hourly
 PK_2_00001,Gabbin Jabba,Network,"Climate, Cryosphere",35.158288,72.389181,,2600,,Pakistan,,,RESTRICTED,,,Active,"T, SD",NA,NA,2019,2024,hourly
-PK_EWS_00001,Sherqilla,EWS,Debris Flow,36.100459,74.02932,,1829,,Pakistan,,,RESTRICTED,,,Active,SH,NA,DF,2018,2024,NA
-PK_EWS_00002,Shisper,EWS,GLOF,36.301849,74.585655,,2180,,Pakistan,,,RESTRICTED,,,,SH,NA,GLOF,2019,2024,NA
+PK_EWS_00001,Sherqilla,EWS,Debris Flow,36.100459,74.02932,,1829,,Pakistan,,,RESTRICTED,,,Active,Q,NA,DF,2018,2024,NA
+PK_EWS_00002,Shisper,EWS,GLOF,36.301849,74.585655,,2180,,Pakistan,,,RESTRICTED,,,,Q,NA,GLOF,2019,2024,NA
 PK_EWS_00003,Khurdopin,EWS,GLOF,36.36178,75.448294,,3430,,Pakistan,,,NA,,https://doi.org/10.1007/s11069-019-03705-1,Defunct,LOS,NA,GLOF,NA,NA,NA
 PK_EWS_00004,Karambar,EWS,GLOF,36.613746,74.078139,,2900,,Pakistan,,,NA,,https://doi.org/10.1007/s11069-019-03705-1,Defunct,LOS,NA,GLOF,NA,NA,NA
 PK008020100,SKARDU,Single,Climate,35.3,75.683,,2181,,Pakistan,GHCNd,,EXT_NET,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,,Active,"T, P",,,1901,2021,daily
