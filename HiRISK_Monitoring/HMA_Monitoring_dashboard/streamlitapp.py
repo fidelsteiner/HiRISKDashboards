@@ -8,7 +8,7 @@ def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 
 def get_gj(): 
-    with open('HIMAP_boundaries.geojson') as f:
+    with open('HiRISK_Monitoring/HMA_Monitoring_dashboard/HIMAP_boundaries.geojson') as f:
         gj = geojson.load(f)
     return gj
 
@@ -20,7 +20,7 @@ px.set_mapbox_access_token(mapbox_access_token)
 st.title("HiRisk Monitoring")
 st.divider()
 
-df = pd.read_csv("HiRISKMonitoringDashboard_HMA.csv",encoding = 'latin1')
+df = pd.read_csv("HiRISK_Monitoring/HiRISKMonitoringDashboard_HMA.csv",encoding = 'latin1')
 
 #Loop through columns
 panel_text = ""
