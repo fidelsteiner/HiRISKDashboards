@@ -142,7 +142,19 @@ BT_1_00096,Kurizampa,Single,Hydrology,27.274218,91.193547,,560,,Bhutan,,hod@nchm
 BT_1_00096,Sumpa,Single,Hydrology,27.65781,91.209076,,1190,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
 BT_1_00097,Uzorong,Single,Hydrology,27.256614,91.412326,,570,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
 BT_1_00096,Muktirap,Single,Hydrology,27.587652,91.492513,,1700,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,,2021,hourly
-BT_3_00001,Baylling Central School,CS,"Climate, Ecology",27.621946,91.504014,,1998,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Active,"T, P, PHEN",NA,NA,2015,2021,daily
+BT_3_00001,Baylling Central School,CS,"Climate, Ecology",27.621946,91.504014,,1998,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
+BT_3_00002,Bjishong Central School,CS,"Climate, Ecology",27.809682,89.727098,,2320,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2018,daily
+BT_3_00003,Damthang Primary School,CS,"Climate, Ecology",27.233231,88.382464,,2040,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
+BT_3_00004,Gyelpozhing Central School,CS,"Climate, Ecology",27.230818,91.1987,,600,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2019,daily
+BT_3_00005,Jakar Higher Secondary School,CS,"Climate, Ecology",27.546735,90.739928,,2700,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
+BT_3_00006,Jomotshangkha Middle Secondary School,CS,"Climate, Ecology",26.895767,92.110392,,260,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
+BT_3_00007,Khasadrapchu Middle Secondary School,CS,"Climate, Ecology",27.385357,89.581832,,2220,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
+BT_3_00008,Nobding Lower Secondary School,CS,"Climate, Ecology",27.548424,90.149688,,2590,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
+BT_3_00009,Pelrithang Middle Secondary School,CS,"Climate, Ecology",26.902397,90.490411,,302,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2014,2019,daily
+BT_3_00010,Sakteng Lower Secondary School,CS,"Climate, Ecology",27.403548,91.922976,,2980,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
+BT_3_00011,Tangmachu Central School,CS,"Climate, Ecology",27.591503,91.193436,,1830,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
+BT_3_00012,Tendruk Central School,CS,"Climate, Ecology",27.120722,88.872016,,1000,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
+BT_3_00013,Yurung Central School,CS,"Climate, Ecology",27.021886,91.345992,,1450,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Defunct,"T, P, PHEN",NA,NA,2015,2020,daily
 514300,INING,Single,Climate,43.917,81.283,,670,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1956,1958,daily
 514370,ZHAOSU/MONGGOLKURE,Single,Climate,43.167,81.117,,1830,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1962,1997,daily
 514635,DIWOPU,Single,Climate,43.907,87.474,,647.7,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1985,2022,daily
