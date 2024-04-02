@@ -142,6 +142,7 @@ BT_1_00096,Kurizampa,Single,Hydrology,27.274218,91.193547,,560,,Bhutan,,hod@nchm
 BT_1_00096,Sumpa,Single,Hydrology,27.65781,91.209076,,1190,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
 BT_1_00097,Uzorong,Single,Hydrology,27.256614,91.412326,,570,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,?,2021,hourly
 BT_1_00096,Muktirap,Single,Hydrology,27.587652,91.492513,,1700,,Bhutan,,hod@nchm.gov.bt,AVAILABLE,https://www.nchm.gov.bt/attachment/ckfinder/userfiles/files/Guidelines%20on%20Data%20Sharing%20%20(1).pdf,,Active,Q,NA,NA,,2021,hourly
+BT_3_00001,Baylling Central School,CS,"Climate, Ecology",27.621946,91.504014,,1998,,Bhutan,,,AVAILABLE,https://heroes.uwicer.gov.bt/datav,,Active,"T, P, PHEN",NA,NA,2015,2021,daily
 514300,INING,Single,Climate,43.917,81.283,,670,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1956,1958,daily
 514370,ZHAOSU/MONGGOLKURE,Single,Climate,43.167,81.117,,1830,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1962,1997,daily
 514635,DIWOPU,Single,Climate,43.907,87.474,,647.7,,China,ISD,,EXT_NET,https://data.cnra.ca.gov/dataset/integrated-surface-dataset-global,,,"T, P",NA,NA,1985,2022,daily
