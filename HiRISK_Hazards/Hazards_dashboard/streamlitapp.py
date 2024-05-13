@@ -54,7 +54,7 @@ if(event_checkbox == "GLOF"):
     country = st.sidebar.selectbox("Select country", ["All"] + sorted(df['Country'].drop_duplicates().tolist()))
     st.sidebar.markdown("https://hirisk.org/")
     #url = 'https://hirisk.org/'
-    st.sidebar.image("logo_hirisk.jpg", width=100)
+    st.sidebar.image("logo_hirisk.png", width=100)
     if country!= "All":
         df = df.loc[(df["Country"]  == country)]
 
