@@ -59,7 +59,7 @@ if(event_checkbox == "GLOF"):
         df = df.loc[(df["Country"]  == country)]
 
     st.sidebar.divider()
-    st.sidebar.markdown("https://hirisk.org/")
+    
 
     # # # Filter by river basin 
     # # river_basin = col1.multiselect("Filter By River Basin",  df['River_Basin'].dropna().drop_duplicates().tolist(), default = df['River_Basin'].dropna().drop_duplicates().tolist()[0])
@@ -430,7 +430,7 @@ elif(event_checkbox=="Ice/Rock Avalanches"):
             )
 else:
     pass
-
+st.sidebar.markdown("https://hirisk.org/")
     # Provide references
 st.subheader("Data References")
 st.markdown(
