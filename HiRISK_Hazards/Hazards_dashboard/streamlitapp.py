@@ -38,7 +38,7 @@ def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 st.sidebar.markdown("https://hirisk.org/")
     #url = 'https://hirisk.org/'
-st.sidebar.image("logo_hirisk.png", width=100)
+#st.sidebar.image("logo_hirisk.png", width=100)
 event_checkbox = st.sidebar.selectbox("Select Hazard Type", ["Avalanches", "Ice/Rock Avalanches","GLOF", "Debris Flow"])
 st.sidebar.divider()
 
