@@ -57,7 +57,8 @@ if(event_checkbox == "GLOF"):
         df = df.loc[(df["Country"]  == country)]
 
     st.sidebar.divider()
-
+    url = 'https://hirisk.org/'
+    st.sidebar.image("logo_hirisk.jpg", width=100)
 
     # # # Filter by river basin 
     # # river_basin = col1.multiselect("Filter By River Basin",  df['River_Basin'].dropna().drop_duplicates().tolist(), default = df['River_Basin'].dropna().drop_duplicates().tolist()[0])
