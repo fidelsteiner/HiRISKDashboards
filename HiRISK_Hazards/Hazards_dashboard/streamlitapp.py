@@ -52,8 +52,7 @@ if(event_checkbox == "GLOF"):
     # Filter by country 
     
     country = st.sidebar.selectbox("Select country", ["All"] + sorted(df['Country'].drop_duplicates().tolist()))
-    url = 'https://hirisk.org/'
-    st.sidebar.image("logo_hirisk.jpg", width=100)
+
     if country!= "All":
         df = df.loc[(df["Country"]  == country)]
 
@@ -429,7 +428,8 @@ elif(event_checkbox=="Ice/Rock Avalanches"):
             )
 else:
     pass
-
+url = 'https://hirisk.org/'
+st.sidebar.image("logo_hirisk.jpg", width=100)
     # Provide references
 st.subheader("Data References")
 st.markdown(
