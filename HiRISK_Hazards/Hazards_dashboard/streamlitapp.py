@@ -36,7 +36,7 @@ def get_gj():
 
 def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
-st.sidebar.markdown("https://hirisk.org/")
+
     #url = 'https://hirisk.org/'
 #st.sidebar.image("logo_hirisk.png", width=100)
 event_checkbox = st.sidebar.selectbox("Select Hazard Type", ["Avalanches", "Ice/Rock Avalanches","GLOF", "Debris Flow"])
@@ -54,7 +54,7 @@ if(event_checkbox == "GLOF"):
     # Filter by country 
     
     country = st.sidebar.selectbox("Select country", ["All"] + sorted(df['Country'].drop_duplicates().tolist()))
-    
+    st.sidebar.markdown("https://hirisk.org/")
     if country!= "All":
         df = df.loc[(df["Country"]  == country)]
 
