@@ -119,5 +119,5 @@ if(df.shape[0] > 0):
             "text/csv",
             key='download-csv'
     )
-st.sidebar.image("HiRISK_Monitoring/HMA_Monitoring_dashboard/logo_hirisk.png")
-st.sidebar.markdown("https://hirisk.org/")
+st.image("HiRISK_Monitoring/HMA_Monitoring_dashboard/logo_hirisk.png")
+st.markdown("https://hirisk.org/")
