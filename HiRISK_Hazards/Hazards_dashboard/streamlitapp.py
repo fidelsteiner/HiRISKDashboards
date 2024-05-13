@@ -54,12 +54,12 @@ if(event_checkbox == "GLOF"):
     # Filter by country 
     
     country = st.sidebar.selectbox("Select country", ["All"] + sorted(df['Country'].drop_duplicates().tolist()))
-    st.sidebar.markdown("https://hirisk.org/")
+    
     if country!= "All":
         df = df.loc[(df["Country"]  == country)]
 
     st.sidebar.divider()
-    
+    st.sidebar.markdown("https://hirisk.org/")
 
     # # # Filter by river basin 
     # # river_basin = col1.multiselect("Filter By River Basin",  df['River_Basin'].dropna().drop_duplicates().tolist(), default = df['River_Basin'].dropna().drop_duplicates().tolist()[0])
