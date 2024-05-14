@@ -37,6 +37,8 @@ def get_gj():
 def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 
+    #url = 'https://hirisk.org/'
+
 event_checkbox = st.sidebar.selectbox("Select Hazard Type", ["Avalanches", "Ice/Rock Avalanches","GLOF", "Debris Flow"])
 st.sidebar.divider()
 
@@ -57,7 +59,7 @@ if(event_checkbox == "GLOF"):
         df = df.loc[(df["Country"]  == country)]
 
     st.sidebar.divider()
-
+    
 
     # # # Filter by river basin 
     # # river_basin = col1.multiselect("Filter By River Basin",  df['River_Basin'].dropna().drop_duplicates().tolist(), default = df['River_Basin'].dropna().drop_duplicates().tolist()[0])
@@ -428,7 +430,8 @@ elif(event_checkbox=="Ice/Rock Avalanches"):
             )
 else:
     pass
-
+st.sidebar.image("HiRISK_Hazards/Hazards_dashboard/logo.png")
+st.sidebar.markdown("https://hirisk.org/")
     # Provide references
 st.subheader("Data References")
 st.markdown(
